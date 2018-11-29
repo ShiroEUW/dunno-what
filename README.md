@@ -1,2 +1,3 @@
-Kurzes und einfaches Projekt\n
+Kurzes und einfaches Projekt
+
 einfacher Taschenrechner und mittelgroßer Taschenrechner
