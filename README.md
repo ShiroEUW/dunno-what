@@ -1,2 +1,2 @@
-# dunno-what
-kurz und einfach
+Kurzes und einfaches Projekt
+einfacher Taschenrechner und mittelgroßer Taschenrechner
