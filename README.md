@@ -44,4 +44,4 @@ elif z == "*":
 else:
     print(z, "kenne ich nicht")
 
-Emojis :boom: :shit: :euro:
+Emojis :facepunch: :sweat_drops: :horse:
