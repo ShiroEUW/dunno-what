@@ -3,7 +3,6 @@ x = int(input("Erste Zahl: "))
 y = int(input("Zweite Zahl: "))
 
 z = input("Welches Rechnenzeichen möchten Sie verwenden: ")
-# Eigentliche Funktion im If-Elif-Else Stil #
 
 if z == "+":
     
@@ -27,8 +26,9 @@ elif z == "*":
     print("ist gleich", int(x) * int(y), "!")
     
 else:
+
     print(z, "kenne ich nicht")
     
-Hier noch eins, zwei Emojis :shit: :ok: :new_moon_with_face: :euro:
+
 
 
