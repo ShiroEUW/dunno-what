@@ -1,12 +1,3 @@
-# einfacher Taschenrechner
-Das hier ist eine _Überschrift_ wieso auch **immer**
-# Variablen
-
-- [] Das ist ein leeres Kästchen
-- [x] Das ist kein leeres Kästchen
-
-[GitHub/ShiroEUW] (https://github.com/ShiroEUW/dunno-what)
-
 x = int(input("Erste Zahl: "))
 
 y = int(input("Zweite Zahl: "))
