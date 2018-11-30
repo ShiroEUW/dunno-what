@@ -1,6 +1,11 @@
 # einfacher Taschenrechner
-
+Das hier ist eine _Überschrift_ wieso auch **immer**
 # Variablen
+
+- [] Das ist ein leeres Kästchen
+- [x] Das ist kein leeres Kästchen
+
+[GitHub/ShiroEUW] (https://github.com/ShiroEUW/dunno-what)
 
 x = int(input("Erste Zahl: "))
 
@@ -33,3 +38,6 @@ elif z == "*":
 else:
     print(z, "kenne ich nicht")
     
+Hier noch eins, zwei Emojis :shit: :ok: :new_moon_with_face: :euro:
+
+
