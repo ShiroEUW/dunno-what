@@ -1,0 +1,53 @@
+
+    
+print("Wie soll gerechnet werden?")
+print("1 = Addition")
+print("2 = Subtraktion")
+print("3 = Division")
+print("4 = Multiplikation") 
+
+
+
+i = int(input())
+
+if i == 1:
+    print("Bitte gib eine Zahl ein")
+    num1 = int(input())
+    print("Bitte gebe eine zweite Zahl ein")
+    num2 = int(input())
+    answer = (num1 + num2)
+    print("Das Ergebnis ist:", answer)
+    
+elif i == 2:
+    print("Bitte gib eine Zahl ein")
+    num1 = int(input())
+    print("Bitte gebe eine zweite Zahl ein")
+    num2 = int(input())
+    answer = (num1 - num2)
+    print("Das Ergebnis ist:", answer)
+    
+elif i == 3:
+    print("Bitte gib eine Zahl ein")
+    num1 = int(input())
+    print("Bitte gebe eine zweite Zahl ein")
+    num2 = int(input())
+    answer = (num1 / num2)
+    print("Das Ergebnis ist:", answer)
+    
+elif i == 4:
+    print("Bitte gib eine Zahl ein")
+    num1 = int(input())
+    print("Bitte gebe eine zweite Zahl ein")
+    num2 = int(input())
+    answer = (num1 * num2)
+    print("Das Ergebnis ist:", answer)
+    
+else:
+    print("*ERROR*")
+    print("Bitte gib eine Nummer zwischen 1 und 4 ein.")
+    print("Starte das Programm bitte neu.")
+
+
+print("Bitte Eingabetaste drücken zum beenden der Anwendung")
+end = input()
+
