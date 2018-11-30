@@ -42,6 +42,7 @@ elif z == "*":
     print("ist gleich", int(x) * int(y), "!")
     
 else:
+
     print(z, "kenne ich nicht")
 
 Emojis :facepunch: :sweat_drops: :horse:
