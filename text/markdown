@@ -1,8 +1,13 @@
+# einfacher Taschenrechner
+
+# Variablen
+
 x = int(input("Erste Zahl: "))
 
 y = int(input("Zweite Zahl: "))
 
 z = input("Welches Rechnenzeichen möchten Sie verwenden: ")
+# Eigentliche Funktion im If-Elif-Else Stil #
 
 if z == "+":
     
@@ -27,4 +32,4 @@ elif z == "*":
     
 else:
     print(z, "kenne ich nicht")
-
+    
